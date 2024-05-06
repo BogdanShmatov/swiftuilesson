@@ -52,9 +52,3 @@ struct RatingView: View {
         }
     }
 }
-
-//#Preview {
-//    RatingView(rating: .constant(4))
-//}
-
-
