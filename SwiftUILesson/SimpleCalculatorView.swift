@@ -18,9 +18,9 @@ struct SimpleCalculatorView: View {
                 RatingView(rating: rate)
             }
             
-            .background(Color.gray)
-            .padding(16)
-            .frame(maxWidth: .infinity)
+//            .background(Color.gray)
+//            .padding(16)
+//            .frame(maxWidth: .infinity)
         }
     }
 }
